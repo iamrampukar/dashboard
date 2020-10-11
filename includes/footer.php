@@ -5,6 +5,7 @@
         </footer>
     </div>
     <!-- ./wrapper -->
+</body>
 <!-- REQUIRED SCRIPTS -->
 
 <!-- jQuery -->
