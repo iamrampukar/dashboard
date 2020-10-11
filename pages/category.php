@@ -62,9 +62,16 @@
                 			<label class="form-check-label">Unpublish</label>
                 		</div>
                 	</div>
+                    <div class="form-group">
+                        <label for="customFile">Custom File</label>
+                        <div class="custom-file">
+                            <input type="file" class="custom-file-input" id="customFile">
+                            <label class="custom-file-label" for="customFile">Choose file</label>
+                        </div>
+                    </div>
                 	<div class="form-group">
                 		<label for="publishDate">Publish Date And Time</label>
-                		<input type="text" class="form-control" id="publishDate" value="07/01/2017">
+                		<input type="text" class="form-control form-control-sm" id="publishDate" value="07/01/2017">
                 	</div>
                 </div>
 
