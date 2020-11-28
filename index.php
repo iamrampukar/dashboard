@@ -6,10 +6,11 @@
             // include('pages/home.php'); 
             // include('pages/category.php'); 
             // include('pages/category_list.php'); 
+            include('pages/project_detail.php'); 
             // include('pages/404.php'); 
             // include('pages/500.php'); 
             // include('pages/contact.php'); 
-            include('pages/profile.php'); 
+            // include('pages/profile.php'); 
             ?>
         </div>
         <!-- /.content-wrapper -->

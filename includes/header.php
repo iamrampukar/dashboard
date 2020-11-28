@@ -13,6 +13,7 @@
   <link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="assets/css/adminlte.min.css">
+  <link rel="stylesheet" href="assets/css/app.css">
   <link rel="stylesheet" href="assets/plugins/daterangepicker/daterangepicker.css">
 
   <!-- Google Font: Source Sans Pro -->
