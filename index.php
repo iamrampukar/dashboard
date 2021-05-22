@@ -12,6 +12,7 @@
             // include('pages/500.php'); 
             // include('pages/contact.php'); 
             // include('pages/profile.php'); 
+            include('pages/chart.php'); 
             ?>
         </div>
         <!-- /.content-wrapper -->
